@@ -7,3 +7,5 @@
 ### 4th lesson - 5 screen
 
 ### 5th lesson - 6 screen
+
+### 6th lesson - 7+8 screens
