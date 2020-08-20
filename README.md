@@ -17,3 +17,5 @@
 ### 9th lesson - all screens adaptive width
 
 ### 10th lesson - burger menu
+
+### 11th lesson - jQuery
