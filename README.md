@@ -9,3 +9,5 @@
 ### 5th lesson - 6 screen
 
 ### 6th lesson - 7+8 screens
+
+### 7th lesson - 9 screen and footer
