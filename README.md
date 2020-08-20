@@ -12,4 +12,6 @@
 
 ### 7th lesson - 9 screen and footer
 
-### 8th lesson - 3 screens adaptive width  
+### 8th lesson - 3 screens adaptive width
+
+### 9th lesson - all screens adaptive width
