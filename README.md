@@ -1,3 +1,6 @@
+## https://random1ze.github.io/mogo_free/
+
+
 ### 1st lesson - 1 screen
 
 ### 2nd lesson - 2 screen and section template
